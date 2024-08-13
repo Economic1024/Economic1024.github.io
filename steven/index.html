@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RedMoviz | Steven Universe</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div id="container">
+        <h1 class="txtep">Steven Universe Episodes</h1>
+        <div class="button-list" id="buttonList"></div>
+        <div class="video-player" id="videoPlayer" style="display:none;">
+            <h3 id="videoTitle"></h3>
+            <video id="videoElement" width="500" height="500" controls>
+                <div class="video-controls">
+                    <button id="backwardBtn">Go Backward</button>
+                    <button id="playPauseBtn">Pause</button>
+                    <button id="forwardBtn">Go Forward</button>
+                    <button id="audioToggleBtn">Audio</button>
+                </div>
+                <source id="videoSource" width="500" height="500" src="" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,1 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #333333; /* Dark background for contrast */
+}
 
+.button {
+    padding: 15px 30px; /* Button padding */
+    border: none; /* No border */
+    border-radius: 25px; /* Rounded corners */
+    background: linear-gradient(to bottom, #ffc0cb, #f390cd); /* Gradient */
+    background-size: 200% 200%; /* Size for the gradient to allow rotation */
+    color: white; /* Text color */
+    font-size: 18px; /* Font size */
+    cursor: pointer; /* Cursor change on hover */
+    transition: transform 0.5s ease, background-position 0.5s ease; /* Smooth transformations */
+    margin-top: -50px; /* Move the button up */
+}
+
+.button:hover {
+    transform: scale(1.05); /* Slightly enlarge on hover */
+    background-position: 100% 100%; /* Rotate the gradient */
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Steven Universe Season 1 Episode 1",
+        "src": "stevenuniverse/season1/episode1.mp4",
+        "display": "Gem Glow | Episode 1"
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 2",
+        "src": "stevenuniverse/season1/episode2.mp4",
+        "display": "Laser Light Cannon | Episode 2"
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 3",
+        "src": "stevenuniverse/season1/episode3.mp4",
+        "display": "Cheeseburger Backpack | Episode 3"
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 4",
+        "src": "stevenuniverse/season1/episode4.mp4",
+        "display": "Together Breakfast | Episode 4"
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 5",
+        "src": "stevenuniverse/season1/episode5.mp4",
+        "display": "Frybo! | Episode 5"
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 6",
+        "src": "stevenuniverse/season1/episode6.mp4",
+        "display": "Cat Fingers | Episode 6"
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 7",
+        "src": "stevenuniverse/season1/episode7.mp4",
+        "display": "Bubble Buddies | Episode 7"
+    },
+    {
+        "title":"Steven Universe Season 1 Episode 8",
+        "src": "stevenuniverse/season1/episode8.mp4",
+        "display": "Serious Steven | Episode 8"
+    }
+]
