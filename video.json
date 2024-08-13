@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Steven Universe Season 1 Episode 1",
+        "src": "video/stevenuniverse/episode1.mp4"
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 2",
+        "src": "video/stevenuniverse/episode2.mp4" 
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 3",
+        "src": "video/stevenuniverse/episode3.mp4" 
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 4",
+        "src": "video/stevenuniverse/episode4.mp4" 
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 5",
+        "src": "video/stevenuniverse/episode5.mp4" 
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 6",
+        "src": "video/stevenuniverse/episode6.mp4" 
+    },
+    {
+        "title": "Steven Universe Season 1 Episode 7",
+        "src": "video/stevenuniverse/episode7.mp4" 
+    }
+]
